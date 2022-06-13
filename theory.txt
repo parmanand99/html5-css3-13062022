@@ -16,8 +16,9 @@ HEAD - Here we write meta data for the pages mostly meant for search engines
 
 Body - This is where content of the page goes (headings, images, hyperlinks)
 
-Title- Title of the webpage
+Only content inside the body section will be displayed in the browser
 
+Title- Title of the webpage
 
 HTML Element - Defined by a start tag and we write some content in between and end tag
 
@@ -26,7 +27,7 @@ Some of the elements will have no content and no end tag
 <hr> - Horizontal line with no content and no end tag
 <br> - Line break which is an Empty element
 
-Only content inside the body section will be displayed in the browser 
+ 
 
 Features of HTML
 ----------------

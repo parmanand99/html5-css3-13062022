@@ -150,7 +150,7 @@ Block-level & Inline elements
 
 Every element has default display value depending on what type it is 
 
-There are two display values : block and inline
+There are two major display values : block and inline
 
 Block-level elements 
 ---------------------
